@@ -25,7 +25,7 @@ int main()
 	cout<<"Enter the sum:";
 	cin>>sum;
 	int n ;
-	cout<<"Enter he size:";
+	cout<<"Enter the size:";
 	cin>>n;
 	int set[n];
 	cout<<"\nEnter the array:\n";
